@@ -6,6 +6,8 @@ public class HelloGit {
 		System.out.println("Hello git");
 		System.out.println("This is second commit");
 		System.out.println("This is master branch");
+		System.out.println("This is 4th'master branch");
+		
 	}
 
 }
